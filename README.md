@@ -2,7 +2,6 @@
 
 **Author:** Swida Saeed  
 **Tool Used:** Microsoft Power BI Desktop  
-**Dataset:** Adventure Works  
 
 ---
 
@@ -22,6 +21,25 @@ The objective was to:
 The final solution provides a comprehensive sales and profitability reporting system designed for business decision-making.
 
 ---
+
+# 📁 Project File
+
+The complete Power BI project file is available below:
+
+📥 **Power BI Dashboard File:**  
+[Adventure_Works_Dashboard.pbix](Adventure_Works_Dashboard.pbix)
+
+*Note: Open using Microsoft Power BI Desktop.*
+
+🧮 **DAX Snippets – Advanced Calculations**  
+[05-Snippets.txt](05-Snippets.txt)  
+[06-Snippets.txt](06-Snippets.txt)
+
+These snippet files demonstrate:
+- Advanced filter context manipulation  
+- Percentage of total calculations  
+- Time intelligence functions (YTD, YoY)  
+- Dynamic measure logic using `VAR` and `DIVIDE()`  
 
 # 🔄 Power BI Development Workflow
 
